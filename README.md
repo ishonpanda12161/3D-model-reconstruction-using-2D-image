@@ -5,8 +5,8 @@ Used Deep learning , torch3D , open3D libraries
 ## How to run it ?  
 
 
-=> Create an input folder (ex. input)
-=> Add your 2D image in that folder
+=> Create an input folder (ex. input) \n
+=> Add your 2D image in that folder \n
 => Create an Output folder (ex. output)
 => Run this command in Terminal : 
       python main.py --input input/your_image.jpg --output output --visualize
