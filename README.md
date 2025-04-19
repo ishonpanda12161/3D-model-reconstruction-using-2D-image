@@ -4,6 +4,7 @@ Used Deep learning , torch3D , open3D libraries
 
 ## How to run it ?  
 
+
 => Create an input folder (ex. input)
 => Add your 2D image in that folder
 => Create an Output folder (ex. output)
